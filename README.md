@@ -1,5 +1,4 @@
 # Darius Lapūnas
----
 Software Development Engineer in Test
 
 d.lapunas@gmail.com
@@ -7,7 +6,6 @@ d.lapunas@gmail.com
 https://stackoverflow.com/users/1560102/dariusl
 
 ## Work Experience
----
 
 ### Sound recorder --- (2012-2013)
 __Android development__
@@ -63,7 +61,6 @@ Automating the setup, execution and cleanup of Android, Universal Windows Platfo
 Maintaining C++ cross-platform test programs (Desktop, Android, UWP).
 
 ## Education
----
 
 ### Bachelor of Software Engineering in Software Systems (2011-2015)
 Kaunas University of Technology
@@ -80,7 +77,6 @@ Kaunas University of Technology
 An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies. [Link to certificate](https://www.youracclaim.com/badges/adea0499-2b0a-438f-92fd-ede48add758e/public_url)
 
 ## Personal Skills
----
 __Mother Tongue__ Lithuanian
 
 <table>
