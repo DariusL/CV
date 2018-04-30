@@ -30,6 +30,7 @@ Minor .NET backend work generating PDF charts from meastured data.
 
 ### UAB „Segfoltas“ --- (2014-2016)
 __Android development__
+
 Commercial projects.
 [PureStarManagement](https://play.google.com/store/apps/details?id=lt.segfoltas.psm). Modeling agency Android application.
 VOWS. Table reservation system.
