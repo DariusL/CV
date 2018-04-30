@@ -34,14 +34,14 @@ Commercial projects.
 [PureStarManagement](https://play.google.com/store/apps/details?id=lt.segfoltas.psm). Modeling agency Android application.
 VOWS. Table reservation system.
 
-### UAB „Informacinių Technologijų Organizacija“ (2016)
+### UAB „Informacinių Technologijų Organizacija“ --- (2016)
 __Android development__
 
 Android application development.
 
 Notable technologies: Google Cast, Bluetooth.
 
-### UAB „Informacinių Technologijų Organizacija“ (2017-Present)
+### UAB „Informacinių Technologijų Organizacija“ --- (2017-Present)
 __Outsource work, C++ application development__
 
 Android code obfuscation and protection software. Working directly on disassembled Android Dex code.
