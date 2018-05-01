@@ -82,11 +82,13 @@ __Mother Tongue__ Lithuanian
 
 <table>
   <tr>
+    <td align="center">LANGUAGE</td>
     <td colspan="2" align="center">UNDERSTANDING</td>
     <td colspan="2" align="center">SPEAKING</td>
     <td align="center">WRITING</td>
   </tr>
   <tr>
+    <td align="center"></td>
     <td align="center">Listening</td>
     <td align="center">Reading</td>
     <td align="center">Spoken interaction</td>
@@ -94,6 +96,7 @@ __Mother Tongue__ Lithuanian
     <td align="center"></td>
   </tr>
   <tr>
+    <td align="center">English</td>
     <td align="center">C2</td>
     <td align="center">C2</td>
     <td align="center">C1</td>
@@ -101,7 +104,7 @@ __Mother Tongue__ Lithuanian
     <td align="center">C1</td>
   </tr>
   <tr>
-    <td colspan="5" align="center">(CEFR) C1.2</td>
+    <td colspan="6" align="center">(CEFR) C1.2</td>
   </tr>
 </table>
 
