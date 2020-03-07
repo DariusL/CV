@@ -42,7 +42,7 @@ Android application development.
 
 Notable technologies: Google Cast, Bluetooth.
 
-### UAB „Informacinių Technologijų Organizacija“ --- (2017-Present)
+### UAB „Informacinių Technologijų Organizacija“ --- (2017-2018)
 __Outsource work, C++ application development__
 
 Android code obfuscation and protection software. Working directly on disassembled Android Dex code.
@@ -60,6 +60,23 @@ Automating and maintaining the setup and build process (Python, CMake, Ant).
 Automating the setup, execution and cleanup of Android, Universal Windows Platform and command line programs.
 
 Maintaining C++ cross-platform test programs (Desktop, Android, UWP).
+
+__Build Automation__
+
+Automating CI builds for mobile applications - Android/Gradle, iOS/fastlane
+
+Automating development tasks - versioning, OneSky translation synchronization.
+
+### Cujo LLC --- (2018-Present)
+__Test Automation__
+
+Designing and implementing E2E tests of cloud services (REST, WebSocket, kafka).
+
+Managing a configurable suite of tests for different environments.
+
+Automating the creation of Jenkins/TeamCity test jobs.
+
+Synchronizing test results with Jira.
 
 ## Education
 
@@ -118,16 +135,18 @@ Have worked in teams spanning multiple timezones and nationalities.
 * Maintaining Android projects through the entire product lifecycle
 * Writing new build scripts and maintaining existing ones
 * Reverse engineering and debugging of native code, automating these activities
-* Automating Android device management through ADB.
+* Automating Android device management through ADB
 * Cross platform application development (Python, C/C++)
+* Automating large numbers of CI jobs
 
 #### Technologies
 * __Testing and assertion frameworks:__ JUnit, NUnit, Hamcrest, AssertJ, Mockito, Robolectric, pytest
 * __Databases:__ SQLite, Firebase
 * __Android APIs:__ Media recording, Camera APIs (camera and camera2), Bluetooth (Classic and Low Energy)
 * __Windows APIs:__ Win32, DirectX
-* __CI:__ GitLab, Jenkins
+* __CI:__ GitLab, Jenkins, TeamCity
 * __Build scripts:__ Ant, CMake, Conan, basic understanding of Gradle, Make
+* __IO__: WebSocket (STOMP), basic usage of kafka for debugging purposes
 
 #### Tools
 * __IDEs:__ Jetbrains, Visual Studio
