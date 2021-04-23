@@ -94,6 +94,9 @@ Kaunas University of Technology
 ### Oracle Certified Associate, Java SE 8 Programmer (2018)
 An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies. [Link to certificate](https://www.youracclaim.com/badges/adea0499-2b0a-438f-92fd-ede48add758e/public_url)
 
+### Oracle Certified Professional: Java SE 11 Developer (2021)
+This limited-edition Java 25th anniversary badge is backed by 25 years of Java excellence. Candidates who hold this certification have demonstrated proficiency in Java (Standard Edition) software development. By passing the required exam, a certified individual proves fluency in Java SE and the skills required to be a Java software developer. [Link to certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C9DB326B5E5F1CBFE1E861BCF9756E74D2509F8736D49EDC1AD56A78CCB57792)
+
 ## Personal Skills
 __Mother Tongue__ Lithuanian
 
