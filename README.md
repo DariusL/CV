@@ -10,7 +10,7 @@ https://stackoverflow.com/users/1560102/dariusl
 ### Sound recorder --- (2012-2013)
 __Android development__
 
-First Android application, uploaded to [Google Play](https://play.google.com/store/apps/details?id=com.nuclearpotato.soundrecorder])
+First Android application
 
 ### SocialHeat --- (2013-2014)
 __Android development__
@@ -32,7 +32,7 @@ Minor .NET backend work generating PDF charts from meastured data.
 __Android development__
 
 Commercial projects.
-[PureStarManagement](https://play.google.com/store/apps/details?id=lt.segfoltas.psm). Modeling agency Android application.
+PureStarManagement. Modeling agency Android application.
 VOWS. Table reservation system.
 
 ### UAB „Informacinių Technologijų Organizacija“ --- (2016)
@@ -143,6 +143,7 @@ Have worked in teams spanning multiple timezones and nationalities.
 * Automating Android device management through ADB
 * Cross platform application development (Python, C/C++)
 * Automating large numbers of CI jobs
+* Test framework design
 
 #### Technologies
 * __Languages:__ Java, Kotlin, Python, C++
