@@ -70,7 +70,9 @@ Automating development tasks - versioning, OneSky translation synchronization.
 ### Cujo LLC --- (2018-Present)
 __Test Automation__
 
-Designing and implementing E2E tests of cloud services (REST, WebSocket, kafka).
+Designing and implementing E2E tests of cloud services (REST, WebSocket, Kafka).
+
+Designing test frameworks (Kotlin/JUnit, Python/pytest).
 
 Managing a configurable suite of tests for different environments.
 
@@ -143,19 +145,20 @@ Have worked in teams spanning multiple timezones and nationalities.
 * Automating large numbers of CI jobs
 
 #### Technologies
+* __Languages:__ Java, Kotlin, Python, C++
 * __Testing and assertion frameworks:__ JUnit, NUnit, Hamcrest, AssertJ, Mockito, Robolectric, pytest
 * __Databases:__ SQLite, Firebase
 * __Android APIs:__ Media recording, Camera APIs (camera and camera2), Bluetooth (Classic and Low Energy)
 * __Windows APIs:__ Win32, DirectX
 * __CI:__ GitLab, Jenkins, TeamCity
-* __Build scripts:__ Ant, CMake, Conan, basic understanding of Gradle, Make
-* __IO__: WebSocket (STOMP), basic usage of kafka for debugging purposes
+* __Build scripts:__ Ant, CMake, Conan, Gradle, Make
+* __IO__: WebSocket (STOMP), Kafka
 
 #### Tools
 * __IDEs:__ Jetbrains, Visual Studio
 * __CAD software:__ Autodesk 3ds Max, Autocad, Google SketchUp
 * __Version control:__ Git, Perforce
-* __Debuggers:__ lldb, gdb
+* __Debuggers:__ lldb, gdb, cdb
 * __Reverse engineering:__ Frida, smali/baksmali
 
 __Driving License__ B
