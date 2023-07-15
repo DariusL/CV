@@ -80,6 +80,10 @@ Automating the creation of Jenkins/TeamCity test jobs.
 
 Synchronizing test results with Jira.
 
+Integrating tests with AWS resources (SecretsManager, S3)
+
+Deploying test infrastructure to AWS (SecretsManager, S3, EC2, SNS/SQS)
+
 ## Education
 
 ### Bachelor of Software Engineering in Software Systems (2011-2015)
@@ -98,6 +102,9 @@ An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge o
 
 ### Oracle Certified Professional: Java SE 11 Developer (2021)
 This limited-edition Java 25th anniversary badge is backed by 25 years of Java excellence. Candidates who hold this certification have demonstrated proficiency in Java (Standard Edition) software development. By passing the required exam, a certified individual proves fluency in Java SE and the skills required to be a Java software developer. [Link to certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C9DB326B5E5F1CBFE1E861BCF9756E74D2509F8736D49EDC1AD56A78CCB57792)
+
+### AWS Certified Developer – Associate (2023)
+Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices. [Link to certificate](https://www.credly.com/badges/d5e97294-6b4e-48b8-9845-91eef3f50b71/public_url)
 
 ## Personal Skills
 __Mother Tongue__ Lithuanian
@@ -144,13 +151,16 @@ Have worked in teams spanning multiple timezones and nationalities.
 * Cross platform application development (Python, C/C++)
 * Automating large numbers of CI jobs
 * Test framework design
+* Developing and deploying cloud applications on AWS
+* Managing infrastructure through terraform
 
 #### Technologies
 * __Languages:__ Java, Kotlin, Python, C++
-* __Testing and assertion frameworks:__ JUnit, NUnit, Hamcrest, AssertJ, Mockito, Robolectric, pytest
+* __Testing and assertion frameworks:__ JUnit, NUnit, Hamcrest, AssertJ, Mockito, Robolectric, pytest, appium
 * __Databases:__ SQLite, Firebase
 * __Android APIs:__ Media recording, Camera APIs (camera and camera2), Bluetooth (Classic and Low Energy)
 * __Windows APIs:__ Win32, DirectX
+* __Cloud APIs:__ AWS
 * __CI:__ GitLab, Jenkins, TeamCity
 * __Build scripts:__ Ant, CMake, Conan, Gradle, Make
 * __IO__: WebSocket (STOMP), Kafka
@@ -161,5 +171,6 @@ Have worked in teams spanning multiple timezones and nationalities.
 * __Version control:__ Git, Perforce
 * __Debuggers:__ lldb, gdb, cdb
 * __Reverse engineering:__ Frida, smali/baksmali
+* __IaC:__ terraform
 
 __Driving License__ B
