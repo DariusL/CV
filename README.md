@@ -142,6 +142,8 @@ Levels: A1 and A2: Basic user - B1 and B2: Independent user - C1 and C2: Profici
 
 ### Communication skills
 Have worked in teams spanning multiple timezones and nationalities.
+
+Can write documentation, deliver presentations.
 ### Job-related skills
 #### Activities
 * Maintaining Android projects through the entire product lifecycle
